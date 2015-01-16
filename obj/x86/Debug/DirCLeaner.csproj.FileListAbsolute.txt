@@ -1,0 +1,4 @@
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\DirCLeaner\DirCLeaner\bin\Debug\DirCLeaner.exe
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\DirCLeaner\DirCLeaner\bin\Debug\DirCLeaner.pdb
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\DirCLeaner\DirCLeaner\obj\x86\Debug\DirCLeaner.exe
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\DirCLeaner\DirCLeaner\obj\x86\Debug\DirCLeaner.pdb
